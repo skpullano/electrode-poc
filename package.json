@@ -8,6 +8,10 @@
     "email": "spullano@kenzan.com",
     "url": "https://github.com/skpullano/"
   },
+  "engines": {
+    "node": "6.0.x",
+    "npm": "3.8.x"
+  },
   "contributors": [],
   "files": [
     "server",
