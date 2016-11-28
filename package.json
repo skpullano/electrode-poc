@@ -9,8 +9,8 @@
     "url": "https://github.com/skpullano/"
   },
   "engines": {
-    "node": "6.0.x",
-    "npm": "3.8.x"
+    "node": "6.0.0",
+    "npm": "3.8.6"
   },
   "contributors": [],
   "files": [
