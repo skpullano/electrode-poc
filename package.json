@@ -8,10 +8,6 @@
     "email": "spullano@kenzan.com",
     "url": "https://github.com/skpullano/"
   },
-  "engines": {
-    "node": "6.0.0",
-    "npm": "3.8.6"
-  },
   "contributors": [],
   "files": [
     "server",
@@ -26,8 +22,8 @@
   },
   "license": "Apache-2.0",
   "engines": {
-    "node": "^4.x.x || ^6.x.x",
-    "npm": ">= 3.x.x"
+    "node": "6.0.0",
+    "npm": "3.8.6"
   },
   "scripts": {
     "start": "if test \"$NODE_ENV\" = \"production\"; then npm run prod; else gulp dev; fi",
